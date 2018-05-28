@@ -24,15 +24,3 @@ Open to index.html
 9. Test: that ensures when a new feed is loaded by the loadFeed function that the content actually changes.
 
 Udacity Resources: Project Description Project Rubric
-||||||| merged common ancestors
-# Feed-Reader-Test
-=======
-# Feed Reader Test
-
-Project Purpose:
-This application will be running some tests using Jasmine.JS.
-This test was built as a Udacity Course project.
-
-How to Load the test :
-Open to index.html
->>>>>>> 8fb768834b2e5ae12133d37b66cace837badda7b
