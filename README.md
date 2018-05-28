@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Feed Reader Test
 
 Project Purpose:
